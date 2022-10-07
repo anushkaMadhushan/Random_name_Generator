@@ -1,5 +1,3 @@
-
-from email.headerregistry import Address
 from faker import Faker
 
 fake = Faker()
